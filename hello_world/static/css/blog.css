@@ -1,0 +1,83 @@
+.page-header {
+    background-color: #C25100;
+    margin-top: 0;
+    margin-bottom: 40px;
+    padding: 20px 20px 20px 40px;
+}
+.page-header h1,
+.page-header h1 a,
+.page-header h1 a:visited,
+.page-header h1 a:active {
+    color: #ffffff;
+    font-size: 36pt;
+    text-decoration: none;   
+    text-align: center;
+}
+h1,
+h2,
+h3,
+h4 {
+    font-family: 'Lobster', cursive;
+    border: 2px dotted;
+}
+.post {
+    margin-bottom: 20px;
+    border: 2px solid red;
+}
+.posttime {
+    background-color: gold;
+    color:black;    
+}
+.posttext {
+    color: #7c2207;
+    background-color: rgb(166, 178, 72);
+}
+.posttitle {
+    color: #1fa1a3;
+    background-color: rgb(222, 127, 208);
+}
+/*
+.post .posttitle h2 a,
+.post h2 a:visited {
+    color: #1fa1a3;
+    background-color: grey;
+}
+
+.post > .date,
+.post > .actions {
+    float: right;
+}
+
+.btn-secondary,
+.btn-secondary:visited {
+    color: #C25100;
+    background: none;
+    border-color: #C25100;
+}
+
+.btn-secondary:hover {
+    color: #FFFFFF;
+    background-color: #C25100;
+}
+
+.date {
+    color: #9f0c0c;    
+}
+
+.save {
+    float: right;
+}
+
+.post-form textarea,
+.post-form input {
+    width: 100%;
+}
+
+.top-menu,
+.top-menu:hover,
+.top-menu:visited {
+    color: #ffffff;
+    float: right;
+    font-size: 26pt;
+    margin-right: 20px;
+}
